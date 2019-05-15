@@ -1,0 +1,76 @@
+.answer-container-common {
+    height: auto;
+    margin: 8px 16px 8px 16px;
+}
+
+.answer-container-half {
+    max-width: 50%;
+    float: left;
+}
+
+.answer-container-full {
+    /*display: inline-block;*/
+}
+
+.answer-header-container {
+    margin-bottom: 8px;
+    padding: 13px;
+    border-radius: 1px;
+    box-shadow: 1px 2px 6px 0 rgba(0, 0, 0, 0.28);
+    background-color: #f5f5f5;
+}
+
+.answer-header-container-green {
+    border: solid 1px #3aa53a;
+}
+
+.answer-button-container-half {
+    width: 47%
+}
+
+.answer-button-container-third {
+    max-width: 25%;
+    min-width: 5%;
+}
+
+.answer-button-container-three-quarter {
+    max-width: 65%;
+    min-width: 15%;
+}
+
+.answer-button {
+    padding: 9px 0px;
+}
+
+.answer-button-half {
+    padding: 9px;
+}
+
+.answer-button-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #979797;
+}
+
+.answer-button-common {
+    border-radius: 1px;
+    border: solid 1px #979797;
+}
+
+.answer-button-yes {
+    background-color: #ffffff;
+}
+
+.answer-button-no {
+    background-color: #f5f5f5;
+}
+
+.answer-button-helped {
+    background-color: #e4ffe8;
+}

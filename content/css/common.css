@@ -1,0 +1,49 @@
+.inline-block {
+    display: inline-block;
+}
+
+.margin-bottom-1 {
+    margin-bottom: 1em;
+}
+
+.margin-0-48 {
+    margin: 0 48px;
+}
+
+/*.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}*/
+
+.width-100-percent {
+    width: 100%;
+}
+/*Общие*/
+
+.header-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #000000;
+}
+
+.horizontal-splitter-8 {
+    height: 8px;
+    border-radius: 1px;
+}
+
+.horizontal-splitter-1 {
+    height: 1px;
+    background-color: #f5f5f5;
+}
+
+.clear-both {
+    clear: both;
+}

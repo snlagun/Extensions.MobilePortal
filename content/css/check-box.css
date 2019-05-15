@@ -1,0 +1,94 @@
+.check-box-container {
+    border-radius: 1px;
+    border: solid 1px #979797;
+    background-color: #ffffff;
+}
+
+.check-box-element{
+    margin: 0 8px;
+}
+/* .checkbox {
+    padding-right: 5px;
+    padding-left: 30px; }
+.checkbox label {
+    display: inline-block;
+    position: relative;
+    padding-left: 5px; }
+    .checkbox label::before {
+        content: "";
+        display: inline-block;
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        left: 0;
+        margin-left: -20px;
+        border: 1px solid #959595;
+        border-radius: 3px;
+        background-color: #fff;
+        -webkit-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+        -o-transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+        transition: border 0.15s ease-in-out, color 0.15s ease-in-out;
+    }
+    .checkbox label::after {
+        display: inline-block;
+        position: absolute;
+        width: 18px;
+        height: 18px;
+        left: 0;
+        top: 0;
+        margin-left: -20px;
+        padding-left: 3px;
+        padding-top: 1px;
+        font-size: 11px;
+        color: #555555;
+    }
+.checkbox input[type="checkbox"] {
+    opacity: 0; }
+.checkbox input[type="checkbox"]:focus + label::before {
+    outline: thin dotted;
+    outline: 5px auto -webkit-focus-ring-color;
+    outline-offset: -2px; }
+.checkbox input[type="checkbox"]:checked + label::after {
+    font-family: 'FontAwesome';
+    content: "\f00c"; }
+.checkbox input[type="checkbox"]:disabled + label {
+    opacity: 0.65; }
+    .checkbox input[type="checkbox"]:disabled + label::before {
+        background-color: #959595;
+        cursor: not-allowed;
+    }
+.checkbox.checkbox-circle label::before {
+    border-radius: 50%; }
+.checkbox.checkbox-inline {
+    margin-top: 0; }
+
+.checkbox-primary input[type="checkbox"]:checked + label::before {
+    background-color: #1269a4;
+    border-color: #1269a4;
+}
+.checkbox-primary input[type="checkbox"]:checked + label::after {
+    color: #fff; } */
+
+.check-box-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: normal;
+    font-style: normal;
+    font-stretch: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    color: #979797;
+}
+
+/* .check-box-button-container {
+
+} */
+
+.check-box-button {
+    border-left: solid 1px #979797;
+    border-right: solid 1px #979797;
+    border-bottom: solid 1px #979797; 
+    border-top: 0;
+    background-color: #ffffff;
+    height: 37px; background-color: #fff; width: 100%
+}
